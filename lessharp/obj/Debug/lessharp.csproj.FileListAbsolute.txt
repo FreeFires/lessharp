@@ -1,0 +1,5 @@
+D:\Projects\C_Sharp\lessharp\lessharp\bin\Debug\lessharp.exe
+D:\Projects\C_Sharp\lessharp\lessharp\bin\Debug\lessharp.pdb
+D:\Projects\C_Sharp\lessharp\lessharp\obj\Debug\lessharp.csprojAssemblyReference.cache
+D:\Projects\C_Sharp\lessharp\lessharp\obj\Debug\lessharp.exe
+D:\Projects\C_Sharp\lessharp\lessharp\obj\Debug\lessharp.pdb
